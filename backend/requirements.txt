@@ -2,7 +2,7 @@ astroid==2.2.5
 autopep8==1.5.2
 Click==7.0
 colorama==0.4.3
-ecdsa==0.13.2
+ecdsa==0.13.3
 Flask==1.0.2
 Flask-Cors==3.0.8
 Flask-SQLAlchemy==2.4.0
